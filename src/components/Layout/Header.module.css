@@ -2,7 +2,7 @@
   position: fixed;
   top: 0;
   left: 0;
-  width: 100%;
+  width: fit-content;
   height: 5rem;
   background-image: linear-gradient(
     to right,
